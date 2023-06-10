@@ -13,5 +13,6 @@ In case the terminal on your side supports the Unicode, please use the following
 Otherwise, please use any IDE (eclips, VSCode, etc.) that suites you, and run the project.
 
 Hazem Kiwan
+Ola Rimawi
 
 
